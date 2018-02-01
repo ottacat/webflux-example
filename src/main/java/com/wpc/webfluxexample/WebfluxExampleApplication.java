@@ -8,5 +8,6 @@ public class WebfluxExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebfluxExampleApplication.class, args);
+		System.out.println("started");
 	}
 }
